@@ -1,6 +1,6 @@
 # Generative Design
 Project files from exploring the p5.js library.
-Change any of the urls from /present/ to /sketches/ to open an browser coding environment
+Change any of the urls from /present/ to /sketches/ to open a browser coding environment
 * 03/07/19 - 03/09/19 | Start Book - Learning basic trig
 * 03/10/19 | [Tutor session](https://editor.p5js.org/taco-tues-on-a-fri/present/8CYUf5urL) - Stroke/No Stroke
 * 03/11/19 | P.1.0 - [Practice](https://editor.p5js.org/taco-tues-on-a-fri/present/RrXZjeB74) | [Daily Variation](https://editor.p5js.org/taco-tues-on-a-fri/present/q3YzDAbUq)
