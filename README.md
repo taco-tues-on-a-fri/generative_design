@@ -18,10 +18,10 @@ Change any of the urls from /present/ to /sketches/ to open an browser coding en
 * 03/23/19 | Color sorter variations.
 * 03/24/19 | [P.1.2.3](https://editor.p5js.org/taco-tues-on-a-fri/present/gXJJ9wlmw)
 * 03/25/19 | P.1.2.3 Variations
-* 3/26/19 | P_1_2_3_02
-* 3/27/19 | P_1_2_3_03
-* 3/28/19 |	[P_2_0_01](https://editor.p5js.org/taco-tues-on-a-fri/present/AJtOIpb1S)
-* 3/31/19 | [P_2_0_01](https://editor.p5js.org/taco-tues-on-a-fri/present/OEyoi3MG4)
-* 4/1/19 | [P_2_0_02](https://editor.p5js.org/taco-tues-on-a-fri/present/sVLyrpgGy) 
-* 4/2/19 | [P_2_0_02 Variation](https://editor.p5js.org/taco-tues-on-a-fri/present/6tYLXOh5g) 
-* 4/3/19 | [P_2_0_03](https://editor.p5js.org/taco-tues-on-a-fri/present/JpV24bt1u) - Growing increasingly frustrated with how the book is written and the gaps in information, this was the last day I spent any significant effort working in this book.  From here I moved on to a project involving web scraping for sentiment analysis - unaware of the rabbit hole I was to enter. 
+* 03/26/19 | P.1.2.3.02
+* 03/27/19 | P.1.2.3.03
+* 03/28/19 | [P.2.0.01](https://editor.p5js.org/taco-tues-on-a-fri/present/AJtOIpb1S)
+* 03/31/19 | [P.2.0.01](https://editor.p5js.org/taco-tues-on-a-fri/present/OEyoi3MG4)
+* 04/01/19 | [P.2.0.02](https://editor.p5js.org/taco-tues-on-a-fri/present/sVLyrpgGy) 
+* 04/02/19 | [P.2.0.02 Variation](https://editor.p5js.org/taco-tues-on-a-fri/present/6tYLXOh5g) 
+* 04/03/19 | [P.2.0.03](https://editor.p5js.org/taco-tues-on-a-fri/present/JpV24bt1u) - Growing increasingly frustrated with how the book is written and the gaps in information, this was the last day I spent any significant effort working in this book.  From here I moved on to a project involving web scraping for sentiment analysis - unaware of the rabbit hole I was to enter. 
