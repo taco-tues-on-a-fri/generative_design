@@ -1,6 +1,6 @@
 Generative Design
 ========
-###Project files from exploring the p5.js library.
+### Project files from exploring the p5.js library.
 Change any of the urls from /present/ to /sketches/ to open an browser coding environment
 -----
 * 03/09/19 | Start Book - Learning basic trig
